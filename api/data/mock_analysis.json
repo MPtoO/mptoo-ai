@@ -1,0 +1,150 @@
+{
+  "finance": {
+    "client_version": {
+      "insights": [
+        {
+          "title": "Tendances du marché financier",
+          "summary": "Les marchés financiers montrent une tendance à la croissance modérée avec une volatilité accrue dans les secteurs technologiques.",
+          "confidence": 0.82
+        },
+        {
+          "title": "Analyse des investissements",
+          "summary": "Les investissements dans les énergies renouvelables et l'IA continuent de dominer les stratégies d'allocation des capitaux.",
+          "confidence": 0.78
+        }
+      ]
+    },
+    "expert_version": {
+      "insights": [
+        {
+          "title": "Tendances du marché financier",
+          "summary": "Les marchés financiers montrent une tendance à la croissance modérée avec une volatilité accrue dans les secteurs technologiques.",
+          "description": "L'analyse des indicateurs économiques indique une croissance de 3.2% dans le secteur financier global, avec des fluctuations importantes dans les valeurs technologiques. Les taux d'intérêt stables contribuent à maintenir la confiance des investisseurs malgré les tensions géopolitiques.",
+          "confidence": 0.82,
+          "sources": ["Bloomberg", "Financial Times", "Reuters", "Données ECB Q2 2023"],
+          "related_topics": ["Inflation", "Taux directeurs", "Tech stocks", "ESG investing"]
+        },
+        {
+          "title": "Analyse des investissements",
+          "summary": "Les investissements dans les énergies renouvelables et l'IA continuent de dominer les stratégies d'allocation des capitaux.",
+          "description": "Les flux de capitaux vers les technologies vertes ont augmenté de 28% par rapport à l'année précédente, tandis que les investissements dans l'IA ont connu une hausse de 47%. Les secteurs traditionnels comme l'industrie lourde et les énergies fossiles voient leur part diminuer progressivement.",
+          "confidence": 0.78,
+          "sources": ["PwC Global Investment Report", "Morningstar Data", "Goldman Sachs Research"],
+          "related_topics": ["Transition énergétique", "IA générative", "Capital-risque", "ESG"]
+        },
+        {
+          "title": "Risques systémiques",
+          "summary": "Évaluation des risques systémiques potentiels dans le secteur financier global",
+          "description": "L'analyse des indicateurs de stress financier montre une résilience accrue du système bancaire, mais des vulnérabilités persistent dans le secteur des fintechs et des cryptomonnaies. La dette des marchés émergents représente également un point de vigilance important.",
+          "confidence": 0.75,
+          "sources": ["IMF Financial Stability Report", "BIS Quarterly Review", "Fitch Ratings"],
+          "related_topics": ["Régulation bancaire", "Cryptomonnaies", "Dette souveraine", "Liquidité du marché"]
+        }
+      ],
+      "metadata": {
+        "analysis_depth": "deep",
+        "sources_count": 18,
+        "processing_time": "3.2s",
+        "confidence_score": 0.81,
+        "model_version": "MPtoO Analysis v2.3",
+        "data_freshness": "2023-06-15"
+      }
+    }
+  },
+  "marketing": {
+    "client_version": {
+      "insights": [
+        {
+          "title": "Tendances marketing digitales",
+          "summary": "Le marketing de contenu personnalisé et les expériences immersives dominent les stratégies digitales actuelles.",
+          "confidence": 0.87
+        },
+        {
+          "title": "Comportement des consommateurs",
+          "summary": "Les consommateurs privilégient de plus en plus les marques authentiques et alignées avec leurs valeurs personnelles.",
+          "confidence": 0.84
+        }
+      ]
+    },
+    "expert_version": {
+      "insights": [
+        {
+          "title": "Tendances marketing digitales",
+          "summary": "Le marketing de contenu personnalisé et les expériences immersives dominent les stratégies digitales actuelles.",
+          "description": "L'analyse des campagnes marketing montre une efficacité supérieure de 37% pour les contenus personnalisés par rapport aux approches généralistes. Les technologies comme la RA/RV et le contenu interactif génèrent un engagement 2.8 fois supérieur aux formats traditionnels.",
+          "confidence": 0.87,
+          "sources": ["HubSpot Marketing Statistics", "Content Marketing Institute", "eMarketer", "Gartner Marketing Report"],
+          "related_topics": ["Personnalisation", "Marketing automation", "Réalité augmentée", "Interactive content"]
+        },
+        {
+          "title": "Comportement des consommateurs",
+          "summary": "Les consommateurs privilégient de plus en plus les marques authentiques et alignées avec leurs valeurs personnelles.",
+          "description": "65% des consommateurs déclarent que l'authenticité et la transparence sont des facteurs déterminants dans leurs décisions d'achat. Les marques engagées sur des questions sociales et environnementales connaissent une fidélité client supérieure de 28% par rapport à leurs concurrents.",
+          "confidence": 0.84,
+          "sources": ["Edelman Trust Barometer", "Nielsen Consumer Insights", "McKinsey Consumer Survey", "Global Web Index"],
+          "related_topics": ["Brand authenticity", "Purpose-driven marketing", "Consumer loyalty", "Gen Z behavior"]
+        }
+      ],
+      "metadata": {
+        "analysis_depth": "deep",
+        "sources_count": 14,
+        "processing_time": "2.8s",
+        "confidence_score": 0.85,
+        "model_version": "MPtoO Analysis v2.3",
+        "data_freshness": "2023-05-22"
+      }
+    }
+  },
+  "intelligence artificielle": {
+    "client_version": {
+      "insights": [
+        {
+          "title": "État de l'IA générative",
+          "summary": "L'IA générative transforme rapidement les industries créatives et les processus d'entreprise avec des capacités de plus en plus sophistiquées.",
+          "confidence": 0.92
+        },
+        {
+          "title": "Adoption de l'IA en entreprise",
+          "summary": "Les grandes entreprises intègrent l'IA dans leurs processus clés, tandis que les PME font face à des défis d'implémentation et de compétences.",
+          "confidence": 0.88
+        }
+      ]
+    },
+    "expert_version": {
+      "insights": [
+        {
+          "title": "État de l'IA générative",
+          "summary": "L'IA générative transforme rapidement les industries créatives et les processus d'entreprise avec des capacités de plus en plus sophistiquées.",
+          "description": "Les modèles multimodaux combinant texte, image et audio représentent la nouvelle frontière de l'IA générative. La taille des modèles continue d'augmenter, tandis que les techniques d'optimisation permettent des déploiements plus efficaces. Les questions éthiques et légales, notamment concernant le droit d'auteur, restent des enjeux majeurs.",
+          "confidence": 0.92,
+          "sources": ["arXiv.org", "Stanford AI Index", "Hugging Face", "OpenAI Research", "IEEE Spectrum"],
+          "related_topics": ["Modèles de fondation", "Multimodalité", "Fine-tuning", "Éthique de l'IA"]
+        },
+        {
+          "title": "Adoption de l'IA en entreprise",
+          "summary": "Les grandes entreprises intègrent l'IA dans leurs processus clés, tandis que les PME font face à des défis d'implémentation et de compétences.",
+          "description": "56% des grandes entreprises ont déployé au moins une solution d'IA à l'échelle, contre seulement 12% des PME. Les secteurs de la finance, de la santé et de la vente au détail montrent les taux d'adoption les plus élevés. La pénurie de talents spécialisés et les préoccupations liées à la qualité des données sont les principaux obstacles cités.",
+          "confidence": 0.88,
+          "sources": ["McKinsey AI Survey", "Deloitte AI in the Enterprise", "IDC AI Spending Guide", "Gartner AI Adoption Trends"],
+          "related_topics": ["AI Governance", "DataOps", "MLOps", "AI Literacy"]
+        },
+        {
+          "title": "Avancées techniques récentes",
+          "summary": "Les percées dans l'apprentissage par renforcement et les architectures d'attention transforment les capacités des systèmes d'IA.",
+          "description": "Les architectures comme Transformer, Pathways et Chinchilla établissent de nouveaux standards d'efficacité et de performance. L'apprentissage par renforcement avec feedback humain (RLHF) s'impose comme technique d'alignement essentielle. La démocratisation des modèles open source accélère l'innovation distribuée.",
+          "confidence": 0.90,
+          "sources": ["NeurIPS Proceedings", "ICML Papers", "Google Research", "DeepMind Publications"],
+          "related_topics": ["RLHF", "Transformers", "Few-shot learning", "Model distillation"]
+        }
+      ],
+      "metadata": {
+        "analysis_depth": "deep",
+        "sources_count": 23,
+        "processing_time": "3.5s",
+        "confidence_score": 0.90,
+        "model_version": "MPtoO Analysis v2.4",
+        "data_freshness": "2023-07-03"
+      }
+    }
+  }
+} 

@@ -1,5 +1,10 @@
 # MPTOO AI
-
+  __  __ ____  _        ___
+ |  \/  |  _ \| |_ ___ / _ \
+ | |\/| | |_) | __/ _ \ | | |
+ | |  | |  __/| || (_) | |_| |
+ |_|  |_|_|    \__\___/ \___/
+ 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/Mmj6xyUr)
 

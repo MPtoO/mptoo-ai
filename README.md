@@ -1,9 +1,10 @@
+```
   __  __ ____  _        ___
  |  \/  |  _ \| |_ ___ / _ \
  | |\/| | |_) | __/ _ \ | | |
  | |  | |  __/| || (_) | |_| |
  |_|  |_|_|    \__\___/ \___/
-
+```
 # MPTOO AI
  
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
